@@ -2,7 +2,7 @@ local workspace = game:GetService("Workspace")
 local players = game:GetService("Players")
 local startergui = game:GetService("StarterGui")
 
-local player = players.LocalPlayer
+local player = game.Players.LocalPlayer
 local char = player.Character
 if not char then
     char = player.CharacterAdded:Wait()
