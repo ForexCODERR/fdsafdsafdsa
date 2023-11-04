@@ -7,7 +7,7 @@ if gameId == 8204899140 or gameId == 8206123457 or gameId == 8206126987 then
 
 elseif gameId == 4777817887 then
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ForexCODERR/fdsafdsafdsa/main/fdsahfdsahfdshafhdsa.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ForexCODERR/fdsafdsafdsa/main/bb.lua"))()
     print("Vision's BladeBall Has Loaded!")
 
 else
